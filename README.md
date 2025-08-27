@@ -8,7 +8,7 @@ This is a simple and interactive **Weather App** built with React. It allows use
 
 ## 📸 Screenshot
 
-![Weather App Screenshot](./screenshot.png)
+![Weather App Screenshot](./Screenshot.png)
 
 ## 📚 Features
 
